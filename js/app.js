@@ -20,6 +20,6 @@ Ext.application({
     ],
     
     defaultToken: '/',
-    mainView: 'TodoMVC.view.Wrapper'
+    mainView: location.search.match('unittest') ? null : 'TodoMVC.view.Wrapper'
     
 });
