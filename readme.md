@@ -1,5 +1,8 @@
 # ExtJS 6 (version modern) TodoMVC Example
 
+Visit the live example in https://yosa.github.io/melisa-pens-todomvc/
+or edit http://codepen.io/yosa/full/mRddoz/
+
 ## Learning Ext JS
 
 The [Ext JS website](https://www.sencha.com/products/extjs/) is a great resource for getting started.
