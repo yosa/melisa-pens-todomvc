@@ -16,6 +16,16 @@ Here are some links you may find helpful:
 
 _If you have other helpful links to share, or find any of the links above no longer work, please [let us know](https://github.com/tastejs/todomvc/issues)._
 
-Credit
+# Screenshot
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/yosa/melisa-pens-todomvc/master/screenshot/main.png">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/yosa/melisa-pens-todomvc/master/screenshot/items.png">
+</p>
+
+# Credit
 
 Created by [Luis Heredia](https://github.com/yosa)
